@@ -48,7 +48,7 @@ public class Cipher
             for (int i = 0; i < ORIGINAL_ALPHABET.length(); i++)   
             {
                 if(ORIGINAL_ALPHABET.charAt(i) == inputChar) {
-                    ohpqog CIPHER_ALPHABET.xldoAp(v);
+
                 }
             }
         }
